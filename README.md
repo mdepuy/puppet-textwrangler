@@ -1,6 +1,6 @@
 # TextWrangler
 [![Build
-Status](https://travis-ci.org/boxen/puppet-textwrangler.png?branch=master)](https://travis-ci.org/boxen/puppet-textwrangler)
+Status](https://travis-ci.org/tcooper/puppet-textwrangler.png?branch=master)](https://travis-ci.org/tcooper/puppet-textwrangler)
 
 Installs [TextWrangler](http://www.barebones.com/products/textwrangler/).
 
